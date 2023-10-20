@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;500&display=swap');
+
+body{
+    font-family: 'Inter', sans-serif;
+    font-weight: lighter ;
+    margin: 0;
+}
+
+h1 {
+    color: white;
+    background-color: lightsteelblue;
+    padding: 1em;
+    margin: 0;
+}
+
+#main{
+    padding: 1em;
+}
+
+#githubImg {
+    max-width: 150px;
+}
