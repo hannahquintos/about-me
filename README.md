@@ -1,3 +1,3 @@
-# deployment
+# about-me
 
-A repo to store github pages example
+A repo to store about-me github pages
